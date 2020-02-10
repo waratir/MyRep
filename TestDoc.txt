@@ -1,11 +1,7 @@
 Hello world
-<<<<<<< HEAD
 
 Main
 
 Hello First
 TTTT
 
-=======
-Hello Second
->>>>>>> SecondBranch
